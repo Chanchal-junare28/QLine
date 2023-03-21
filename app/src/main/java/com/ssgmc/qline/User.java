@@ -4,6 +4,7 @@ public class User {
     public String firstname, lastname, email, pass, uid;
     public String appointmentDate = "NA";
 
+
     public User(){}
 
     public String getAppointmentDate() {
